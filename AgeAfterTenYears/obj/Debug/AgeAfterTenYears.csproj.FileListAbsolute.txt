@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\IntroProgramming_SoftUni_Homework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\IntroProgramming_SoftUni_Homework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\IntroProgramming_SoftUni_Homework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\IntroProgramming_SoftUni_Homework\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\IntroProgramming_SoftUni_Homework\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.pdb
